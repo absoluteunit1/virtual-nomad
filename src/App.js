@@ -1,10 +1,10 @@
-import SimpleGlobe from "./components/SimpleGlobe";
-
+import Globe from "react-globe.gl";
 
 function App() {
   return (
     <>
-      <SimpleGlobe/>
+      {/*<YoutubePlayer id="69ICkfywkrE"/>*/}
+      <Globe/>
     </>
   );
 }
